@@ -1,0 +1,3 @@
+<?php //route_name_e2bc6d938fea6dd6824519cfa3355fe0
+
+return [PHP_INT_MAX, 'api_orders_get_collection'];

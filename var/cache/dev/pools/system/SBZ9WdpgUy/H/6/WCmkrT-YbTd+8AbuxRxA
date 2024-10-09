@@ -1,0 +1,3 @@
+<?php //route_name_03296924be3a0772ac71ec5057fe2d98
+
+return [PHP_INT_MAX, 'api_shipping_infos_get_collection'];

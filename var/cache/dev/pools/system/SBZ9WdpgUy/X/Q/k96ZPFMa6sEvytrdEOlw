@@ -1,0 +1,3 @@
+<?php //route_name_53133ec26093559767b0dec057933701
+
+return [PHP_INT_MAX, 'api_sellers_get_collection'];
